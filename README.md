@@ -2,9 +2,6 @@
 
 Me chamo Artur Maciel Rodrigues, tenho 20 anos e sou natural de Betim/MG. Atualmente estou cursando Geografia na Universidade Federal de Minas Gerais (UFMG). Atuei em duas bolsas de Iniciação Científica e um projeto voluntário, voltado à área de geoprocessamento, fotogrametria e sensoriamento remoto. Possuo grande interesse nas linhas de pesquisas referentes ao tema de Geotecnologias, Modelagem Ambiental, Geoestatística e Hidrogeografia.
 
-**Linkedin**: www.linkedin.com/in/artur-m-r            
-**Lattes**: https://lattes.cnpq.br/7860717780387506
-
 # Softwares e tecnologias
 
 <img
@@ -127,4 +124,22 @@ Desenvolvido através de classificação supervisionada de imagens pelo plugin *
 <p align="center">
   <img src="Mapas/Uso_cobertura_Pintado.jpeg" width="700">
 </p>
+
+### Cobertura do solo no Estado da Bahia
+
+<p align="center">
+  <img src="Mapas/Bahia_coverage.jpeg" width="700">
+</p>
+
+Primeiro mapa feito (começo de 2024)
+
+---
+
+## Contato
+
+**Linkedin**: www.linkedin.com/in/artur-m-r            
+**Lattes**: https://lattes.cnpq.br/7860717780387506
+**E-mail**: arturgeografia13@gmail.com  /  maciel.artur13@gmail.com
+
+Obrigado!
 
