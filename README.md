@@ -11,8 +11,8 @@ Lattes: https://lattes.cnpq.br/7860717780387506
     align="left"
     alt="QGIS"
     title="QGIS"
-    width="35px"
-    height="35px"
+    width="45px"
+    height="45px"
     src="https://cdn.simpleicons.org/qgis"
 />
 
@@ -20,16 +20,16 @@ Lattes: https://lattes.cnpq.br/7860717780387506
     align="left"
     alt="ArcGIS"
     title="ArcGIS Pro"
-    width="35px"
-    height="35px"
+    width="45px"
+    height="45px"
     src="https://cdn.simpleicons.org/arcgis"
 />
 <img
     align="left"
     alt="Python"
     title="Python"
-    width="35px"
-    height="35px"
+    width="45px"
+    height="45px"
     src="https://cdn.simpleicons.org/python"
 />
 
@@ -37,16 +37,16 @@ Lattes: https://lattes.cnpq.br/7860717780387506
     align="left"
     alt="SQL"
     title="SQL"
-    width="35px"
-    height="35px"
+    width="45px"
+    height="45px"
     src="https://cdn.simpleicons.org/mysql"
 />
 <img
     align="left"
     alt="Jupyter Notebook"
     title="Jupyter Notebook"
-    width="35px"
-    height="35px"
+    width="40px"
+    height="45px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
 />
 
@@ -54,11 +54,28 @@ Lattes: https://lattes.cnpq.br/7860717780387506
     align="left"
     alt="Jupyter Notebook"
     title="Jupyter Notebook"
-    width="35px"
-    height="35px"
+    width="45px"
+    height="45px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
 />
-          
+
+<img
+    align="left"
+    alt="Pix4D"
+    title="Pix4D"
+    width="75px"
+    height="75px"
+    src="./assets/Pix4d-logo.png"
+/>
+
+<img
+    align="left"
+    alt="Agisoft Metashape"
+    title="Agisoft Metashape"
+    width="170x"
+    height="170px"
+    src="./assets/Metashape_Logo.png"
+/>
 
 
 </p>
