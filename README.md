@@ -2,9 +2,8 @@
 
 Me chamo Artur Maciel Rodrigues, tenho 20 anos e sou natural de Betim/MG. Atualmente estou cursando Geografia na Universidade Federal de Minas Gerais (UFMG). Atuei em duas bolsas de Iniciação Científica e um projeto voluntário, voltado à área de geoprocessamento, fotogrametria e sensoriamento remoto. Possuo grande interesse nas linhas de pesquisas referentes ao tema de Geotecnologias, Modelagem Ambiental, Geoestatística e Hidrogeografia.
 
-Linkedin: www.linkedin.com/in/artur-m-r
-
-Lattes: https://lattes.cnpq.br/7860717780387506
+**Linkedin**: www.linkedin.com/in/artur-m-r            
+**Lattes**: https://lattes.cnpq.br/7860717780387506
 
 # Softwares e tecnologias
 
