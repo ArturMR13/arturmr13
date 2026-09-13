@@ -135,10 +135,12 @@ Primeiro mapa feito (começo de 2024)
 
 ---
 
-## Contato
+## Contato 
 
 **Linkedin**: www.linkedin.com/in/artur-m-r            
+
 **Lattes**: https://lattes.cnpq.br/7860717780387506
+
 **E-mail**: arturgeografia13@gmail.com  /  maciel.artur13@gmail.com
 
 Obrigado!
