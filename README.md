@@ -49,8 +49,8 @@ Me chamo Artur Maciel Rodrigues, tenho 20 anos e sou natural de Betim/MG. Atualm
 
 <img
     align="left"
-    alt="Jupyter Notebook"
-    title="Jupyter Notebook"
+    alt="RStudio"
+    title="RStudio"
     width="45px"
     height="45px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
