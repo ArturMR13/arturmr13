@@ -72,26 +72,59 @@ Me chamo Artur Maciel Rodrigues, tenho 20 anos e sou natural de Betim/MG. Atualm
     align="left"
     alt="Agisoft Metashape"
     title="Agisoft Metashape"
-    width="170x"
+    width="170px"
     height="170px"
     src="./assets/Metashape_Logo.png"
 />
 </p>
 
+<br clear="left" />
+
 ---
 
-# Portfólio de Mapas
+# Portfólio de Mapas 
 
 Produção de mapas temáticos desenvolvidos a partir de técnicas de
 Geoprocessamento, Sensoriamento Remoto e Cartografia.
 
 
-### Mapa de localização
+### Localização - Bacia do Córrego do Pintado/MG
 
 <p align="center">
-  <img src="Mapas/Bacia Corrego do Pinatdo.jpg" width="700">
+  <img src="Mapas/Bacia_Corrego_Pintado.jpg" width="700">
 </p>
 
+### Edificações do Complexo Industrial da bacia do Pintado
 
+<p align="center">
+  <img src="Mapas/Edifications.jpg" width="700">
+</p>
 
+### Susceptibilidade à Inundações na cidade de Belo Horizonte/MG
+
+<p align="center">
+  <img src="Mapas/Flood_BH.png" width="700">
+</p>
+
+### Ortomosaicos Bacia de Ibirité 
+
+<p align="center">
+  <img src="Mapas/Ortomosaicos_bacia_Ibirite.jpeg" width="800">
+</p>
+
+Desenvolvidos no software *Agisoft Metashape*, e posteriormente processado no Qgis 3.40
+
+### Uso e Cobertura do solo em Ouro Branco/MG
+
+<p align="center">
+  <img src="Mapas/Uso_Cobertura_MaxVero.jpg" width="700">
+</p>
+
+Desenvolvido através de classificação supervisionada de imagens pelo plugin *Semi-Classification Plugin* do QGIS
+
+### Uso e Cobertura da bacia do Pintado
+
+<p align="center">
+  <img src="Mapas/Uso_cobertura_Pintado.jpeg" width="700">
+</p>
 
